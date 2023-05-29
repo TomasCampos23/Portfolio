@@ -69,6 +69,13 @@ body {
     background-image: url(../img/desarrollo-web.png) ;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 350px;
-    padding: 20px;
+    height: 250px;
+    position: relative;
+}
+
+.contenido-hero{
+    position: absolute;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
 }
